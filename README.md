@@ -4,12 +4,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4" alt="vexalyn-dev hero visual" />
 </p>
 
-**Vexalyn Dev** · Frontend or full-stack engineer
-
-<p><strong>● Building and sharing work in public</strong></p>
-
-<p><a href="https://github.com/vexalyn-dev">GitHub</a></p>
-
 </div>
 
 <h2>What teams can evaluate quickly</h2>
