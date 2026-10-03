@@ -43,8 +43,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Vexalyn Dev GitHub proof metrics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" />
+  <img src="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" alt="Vexalyn Dev stats" />
 </picture>
 </p>
 
@@ -54,8 +54,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&repos=vexalyn-dev%2Fpresensi-guru-icbct%2Cvexalyn-dev%2FPairly%2Cvexalyn-dev%2Frecondsy%2Cvexalyn-dev%2FMamieJagoo&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&repos=vexalyn-dev%2Fpresensi-guru-icbct%2Cvexalyn-dev%2FPairly%2Cvexalyn-dev%2Frecondsy%2Cvexalyn-dev%2FMamieJagoo&v=recruiter-projects-1&mode=dark" width="100%" alt="Vexalyn Dev selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" />
+  <img src="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" alt="Vexalyn Dev projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -79,8 +79,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Vexalyn Dev technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" />
+  <img src="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" alt="Vexalyn Dev technical stack" />
 </picture>
 </p>
 
@@ -98,17 +98,30 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Vexalyn Dev contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" alt="Vexalyn Dev consistency signal" />
 </picture>
 </p>
 
 <hr />
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0; border-radius: 36px; overflow: hidden; background: linear-gradient(90deg, #020b14 0%, #071b2c 18%, #0d1f2e 35%, #0d2933 52%, #112537 70%, #1d1530 100%); border: 2px solid #2a90f4; box-shadow: 0 0 20px rgba(42, 144, 244, 0.45);">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/vexalyn-dev">GitHub</a></td>
+<td align="center" valign="middle" style="height: 130px; position: relative; padding: 0;">
+  <div style="position:absolute; inset:0; background:linear-gradient(90deg, rgba(41,160,255,0.22), rgba(1,13,24,0) 28%, rgba(20,98,87,0.23) 58%, rgba(168,93,255,0.18) 100%);"></div>
+  <div style="position:relative; display:inline-block; padding: 12px 20px 12px 14px; border-radius: 999px; background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(16,20,24,0.75)); border: 2px solid rgba(255,255,255,0.12); box-shadow: 0 0 22px rgba(255,255,255,0.12), inset 0 0 12px rgba(0,0,0,0.18);">
+    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+      <tr>
+        <td style="padding: 0 10px 0 0; vertical-align: middle;">
+          <div style="width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, rgba(255,255,255,0.18), rgba(0,0,0,0.4)); border: 1px solid rgba(255,255,255,0.18); display: flex; align-items: center; justify-content: center; color: #ffffff; font-weight: 700; font-size: 18px; font-family: Arial, sans-serif;">G</div>
+        </td>
+        <td style="padding: 0; color: #f3f3f3; font-size: 16px; font-weight: 700; font-family: Arial, sans-serif; vertical-align: middle;">GitHub</td>
+        <td style="padding: 0 0 0 8px; color: #f3f3f3; font-size: 16px; font-weight: 700; font-family: Arial, sans-serif; vertical-align: middle;">@vexalyn-dev</td>
+      </tr>
+    </table>
+  </div>
+  <div style="position:absolute; right:18px; bottom:8px; color: rgba(255,255,255,0.8); font-size: 11px; font-family: Arial, sans-serif; font-weight: 600; letter-spacing: 0.02em;">gitskins.com</div>
+</td>
 </tr>
 </table>
 
