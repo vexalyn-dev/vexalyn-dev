@@ -16,7 +16,53 @@
 </td>
 </tr>
 </table>
+
 </div>
+
+<div style="background: linear-gradient(135deg, #0a0e27 0%, #0f1b3d 25%, #1a1445 50%, #0d1f2e 75%, #0a0e27 100%); padding: 60px 40px; border-radius: 12px; margin: 40px 0; position: relative; overflow: hidden;">
+<div style="position: absolute; top: -50%; right: -10%; width: 600px; height: 600px; border: 2px solid rgba(100, 200, 255, 0.15); border-radius: 50%; opacity: 0.6;"></div>
+<div style="position: absolute; top: 20%; right: 10%; width: 400px; height: 400px; border: 1px solid rgba(100, 200, 255, 0.1); border-radius: 50%;"></div>
+
+<table width="100%" style="position: relative; z-index: 1;">
+<tr>
+<td width="50%" valign="top">
+<p style="color: #8899dd; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 20px 0;">HELLO, WORLD. I'M</p>
+<h1 style="font-size: 72px; font-weight: 900; margin: 0 0 30px 0; color: #ffffff; text-shadow: 0 0 20px rgba(100, 200, 255, 0.3); font-family: 'Arial Black', sans-serif; letter-spacing: -2px;">
+<div style="display: inline-block; -webkit-text-stroke: 1px rgba(100, 200, 255, 0.5); color: rgba(255,255,255,0.9);">Vexalyn</div><br/>
+<div style="display: inline-block; -webkit-text-stroke: 1px rgba(100, 200, 255, 0.5); color: rgba(255,255,255,0.9);">Dev</div>
+</h1>
+<p style="color: #aabbdd; font-size: 14px; margin: 20px 0; line-height: 1.6;">PHP / Blade / TypeScript<br/>On the public internet</p>
+</td>
+<td width="50%" valign="middle" align="right">
+<div style="font-size: 120px; opacity: 0.3; position: relative; top: 20px;">✓</div>
+</td>
+</tr>
+</table>
+
+<table width="100%" style="position: relative; z-index: 1; margin-top: 50px; border-top: 1px solid rgba(100, 200, 255, 0.2); padding-top: 30px;">
+<tr>
+<td width="25%" align="center">
+<p style="color: #8899dd; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px 0;">REPOSITORIES</p>
+<p style="font-size: 32px; font-weight: 900; color: #ffffff; margin: 0;">20</p>
+</td>
+<td width="25%" align="center">
+<p style="color: #8899dd; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px 0;">STARS</p>
+<p style="font-size: 32px; font-weight: 900; color: #ffffff; margin: 0;">8</p>
+</td>
+<td width="25%" align="center">
+<p style="color: #8899dd; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px 0;">CONTRIBUTORS</p>
+<p style="font-size: 32px; font-weight: 900; color: #ffffff; margin: 0;">797</p>
+</td>
+<td width="25%" align="center">
+<p style="color: #8899dd; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; margin: 0 0 10px 0;">FOLLOWERS</p>
+<p style="font-size: 32px; font-weight: 900; color: #ffffff; margin: 0;">7</p>
+</td>
+</tr>
+</table>
+<p style="text-align: right; color: rgba(100, 200, 255, 0.6); font-size: 11px; margin-top: 20px; position: relative; z-index: 1;">gitskins.com</p>
+</div>
+
+<p align="center" style="color: #8899dd; font-size: 14px; margin: 30px 0;"><strong>Frontend or full-stack engineer</strong> · the public internet</p>
 
 <h2>What teams can evaluate quickly</h2>
 
@@ -29,24 +75,6 @@
 </table>
 
 <p><sub>:&gt;</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>20</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>8</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>795</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" />
-  <img src="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd&v=4" alt="Vexalyn Dev stats" />
-</picture>
-</p>
 
 <h2>Selected work</h2>
 
@@ -105,23 +133,10 @@
 
 <hr />
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0; border-radius: 36px; overflow: hidden; background: linear-gradient(90deg, #020b14 0%, #071b2c 18%, #0d1f2e 35%, #0d2933 52%, #112537 70%, #1d1530 100%); border: 2px solid #2a90f4; box-shadow: 0 0 20px rgba(42, 144, 244, 0.45);">
+<table width="100%">
 <tr>
-<td align="center" valign="middle" style="height: 130px; position: relative; padding: 0;">
-  <div style="position:absolute; inset:0; background:linear-gradient(90deg, rgba(41,160,255,0.22), rgba(1,13,24,0) 28%, rgba(20,98,87,0.23) 58%, rgba(168,93,255,0.18) 100%);"></div>
-  <div style="position:relative; display:inline-block; padding: 12px 20px 12px 14px; border-radius: 999px; background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(16,20,24,0.75)); border: 2px solid rgba(255,255,255,0.12); box-shadow: 0 0 22px rgba(255,255,255,0.12), inset 0 0 12px rgba(0,0,0,0.18);">
-    <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-      <tr>
-        <td style="padding: 0 10px 0 0; vertical-align: middle;">
-          <div style="width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, rgba(255,255,255,0.18), rgba(0,0,0,0.4)); border: 1px solid rgba(255,255,255,0.18); display: flex; align-items: center; justify-content: center; color: #ffffff; font-weight: 700; font-size: 18px; font-family: Arial, sans-serif;">G</div>
-        </td>
-        <td style="padding: 0; color: #f3f3f3; font-size: 16px; font-weight: 700; font-family: Arial, sans-serif; vertical-align: middle;">GitHub</td>
-        <td style="padding: 0 0 0 8px; color: #f3f3f3; font-size: 16px; font-weight: 700; font-family: Arial, sans-serif; vertical-align: middle;">@vexalyn-dev</td>
-      </tr>
-    </table>
-  </div>
-  <div style="position:absolute; right:18px; bottom:8px; color: rgba(255,255,255,0.8); font-size: 11px; font-family: Arial, sans-serif; font-weight: 600; letter-spacing: 0.02em;">gitskins.com</div>
-</td>
+<td width="62%" valign="middle"><h2>Let's talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/vexalyn-dev">GitHub</a></td>
 </tr>
 </table>
 
