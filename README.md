@@ -1,21 +1,15 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · vexalyn-dev</sub></p>
-<h1>Vexalyn Dev</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>:&gt;</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4" alt="vexalyn-dev hero visual" />
+</p>
+
+**Vexalyn Dev** · Frontend or full-stack engineer
+
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/vexalyn-dev">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/181032935?u=ed7945c47e5413b1a184f3f6db9d87cdec2cebdd&amp;v=4" width="180" alt="Vexalyn Dev GitHub avatar" />
-</td>
-</tr>
-</table>
+
 </div>
 
 <h2>What teams can evaluate quickly</h2>
@@ -43,8 +37,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Vexalyn Dev GitHub proof metrics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=1" />
+  <img src="https://www.gitskins.com/api/section/stats?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=1" alt="Vexalyn Dev GitHub profile stats" />
 </picture>
 </p>
 
@@ -54,8 +48,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&repos=vexalyn-dev%2Fpresensi-guru-icbct%2Cvexalyn-dev%2FPairly%2Cvexalyn-dev%2Frecondsy%2Cvexalyn-dev%2FMamieJagoo&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&repos=vexalyn-dev%2Fpresensi-guru-icbct%2Cvexalyn-dev%2FPairly%2Cvexalyn-dev%2Frecondsy%2Cvexalyn-dev%2FMamieJagoo&v=recruiter-projects-1&mode=dark" width="100%" alt="Vexalyn Dev selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&repos=vexalyn-dev%2Fpresensi-guru-icbct%2Cvexalyn-dev%2FPairly%2Cvexalyn-dev%2Frecondsy%2Cvexalyn-dev%2FMamieJagoo&v=1" />
+  <img src="https://www.gitskins.com/api/section/projects?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&repos=vexalyn-dev%2Fpresensi-guru-icbct%2Cvexalyn-dev%2FPairly%2Cvexalyn-dev%2Frecondsy%2Cvexalyn-dev%2FMamieJagoo&v=1" alt="Vexalyn Dev selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -79,8 +73,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Vexalyn Dev technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=1" />
+  <img src="https://www.gitskins.com/api/section/stack?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=1" alt="Vexalyn Dev technology stack" />
 </picture>
 </p>
 
@@ -98,8 +92,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Vexalyn Dev contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=1" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=vexalyn-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181032935%3Fu%3Ded7945c47e5413b1a184f3f6db9d87cdec2cebdd%26v%3D4&v=1" alt="Vexalyn Dev contribution activity" />
 </picture>
 </p>
 
